@@ -1,37 +1,44 @@
-# md-diary-release
+# Markdown Diary
+![image](https://github.com/stevobm/md-diary/assets/5198256/c283452a-5ea8-41b4-b022-fb4af03c81b6)
 
-#### 介绍
-Markdown Diary 发行版仓库
+## 体验极佳的Markdown日记软件
 
-#### 软件架构
-软件架构说明
+Markdown Diary是一款设计优雅的日记软件，支持Markdown语法输入和实时预览。
 
+![image](https://github.com/stevobm/md-diary/assets/5198256/afd94810-25ce-4198-963f-8cfd0df1d348)
 
-#### 安装教程
+## 软件特性
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- 一目了然的用户界面，简单免配置、开箱即用
+- 支持Markdown语法输入，内容原地实时预览
+- 日记支持表格可视化编辑、本地图片插入/粘贴
+- 支持输入密码登录，日记隐私内容更有保障
+- 支持按目录批量操作日记（如：删除等）
+- 数据纯本地保存，无惧云端第三方安全风险
+- 支持Windows、Mac、Linux多个系统平台
 
-#### 使用说明
+## 安装方法
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### Windows
 
-#### 参与贡献
+目前为Windows用户提供了NSIS安装包(setup.exe)、ZIP压缩包(.zip)和便携式可执行文件(.exe)三种格式，分别可以在release页面下载对应的文件。
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+### Mac
 
+Mac用户可以使用DMG安装包(.dmg)和ZIP压缩包两种格式皆可，支持x64/arm64架构，同样位于release页面下载。
 
-#### 特技
+### Linux
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+这里为Linux用户提供了三种格式的下载文件，分别是通用的APPImage格式(.AppImage)、用于Debian系(如：Ubuntu)的deb包和Redhat系(如：CentOS)的rpm包，支持x64/arm64架构，可在release页面下载。
+
+## 备用下载地址
+
+> 由于国内用户访问github不太稳定，因此也可以通过以下途径下载：
+
+### 百度网盘
+
+Markdown Diary Releases: https://pan.baidu.com/s/1M1OeMXaWnTr8f0_oXtR08Q?pwd=c2rd 提取码: c2rd
+
+### 城通网盘
+
+Markdown Diary Releases: https://url43.ctfile.com/d/3173743-57977955-91e7e2?p=3701 （访问密码：3701）
