@@ -1,11 +1,11 @@
 # Markdown Diary
-![image](https://github.com/stevobm/md-diary/assets/5198256/c283452a-5ea8-41b4-b022-fb4af03c81b6)
+![logo](md-diaryicon.png)
 
 ## 体验极佳的Markdown日记软件
 
 Markdown Diary是一款设计优雅的日记软件，支持Markdown语法输入和实时预览。
 
-![image](https://github.com/stevobm/md-diary/assets/5198256/afd94810-25ce-4198-963f-8cfd0df1d348)
+![screenshot](md-diaryimage.png)
 
 ## 软件特性
 
