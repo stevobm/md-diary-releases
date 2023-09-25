@@ -35,6 +35,9 @@ Mac用户可以使用DMG安装包(.dmg)和ZIP压缩包两种格式皆可，支�
 
 > 由于国内用户访问github不太稳定，因此也可以通过以下途径下载：
 
+### Gitee
+stevobm / md-diary-release: https://gitee.com/stevobm/md-diary-release/releases
+
 ### 百度网盘
 
 Markdown Diary Releases: https://pan.baidu.com/s/1M1OeMXaWnTr8f0_oXtR08Q?pwd=c2rd 提取码: c2rd
