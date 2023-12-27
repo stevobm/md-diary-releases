@@ -4,4 +4,3 @@ plugins:
 title: Markdown Diary
 logo: assets/images/logo.png
 description: An elegant diary for you.
-show_downloads: true
