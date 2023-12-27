@@ -1,7 +1,5 @@
 # Markdown Diary
 
-## 体验极佳的Markdown日记软件
-
 Markdown Diary是一款设计优雅的日记软件，支持Markdown语法输入和实时预览。
 ![image](https://github.com/stevobm/md-diary-releases/assets/5198256/159eb128-8782-4287-83d5-ec438b2355c6)
 
