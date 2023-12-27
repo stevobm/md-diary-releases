@@ -1,5 +1,4 @@
 # Markdown Diary
-![image](https://github.com/stevobm/md-diary-releases/assets/5198256/e11de7c6-f3ee-48f4-9f7a-05bf5337e31b)
 
 ## 体验极佳的Markdown日记软件
 
