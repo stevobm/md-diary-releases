@@ -29,14 +29,15 @@ Mac用户可以使用DMG安装包(.dmg)和ZIP压缩包两种格式皆可，支�
 
 这里为Linux用户提供了三种格式的下载文件，分别是通用的APPImage格式(.AppImage)、用于Debian系(如：Ubuntu)的deb包和Redhat系(如：CentOS)的rpm包，支持x64/arm64架构，可在release页面下载。
 
-## 备用下载地址
+## 下载地址
 
-> 由于国内用户访问github不太稳定，因此也可以通过以下途径下载：
+### Github
+[下载链接](https://github.com/stevobm/md-diary-releases/releases/latest)
 
 ### 百度网盘
 
-Markdown Diary Releases: https://pan.baidu.com/s/1M1OeMXaWnTr8f0_oXtR08Q?pwd=c2rd 提取码: c2rd
+[下载链接](https://pan.baidu.com/s/1M1OeMXaWnTr8f0_oXtR08Q?pwd=c2rd) 提取码: c2rd
 
 ### 城通网盘
 
-Markdown Diary Releases: https://url43.ctfile.com/d/3173743-57977955-91e7e2?p=3701 （访问密码：3701）
+[下载链接](https://url43.ctfile.com/d/3173743-57977955-91e7e2?p=3701) 访问密码：3701
