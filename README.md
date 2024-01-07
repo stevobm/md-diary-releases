@@ -13,32 +13,24 @@ Markdown Diary是一款设计优雅的日记软件，支持Markdown语法输入�
 - 数据纯本地保存，无惧云端第三方安全风险
 - 支持Windows、Mac、Linux多个系统平台
 
-## 安装方法
-
-### Windows
-
-目前为Windows用户提供了NSIS安装包(setup.exe)、ZIP压缩包(.zip)和便携式可执行文件(.exe)三种格式，分别可以在release页面下载对应的文件。
-
-### Mac
-
-Mac用户可以使用DMG安装包(.dmg)和ZIP压缩包两种格式皆可，支持x64/arm64架构，同样位于release页面下载。
-
-### Linux
-
-这里为Linux用户提供了三种格式的下载文件，分别是通用的APPImage格式(.AppImage)、用于Debian系(如：Ubuntu)的deb包和Redhat系(如：CentOS)的rpm包，支持x64/arm64架构，可在release页面下载。
-
 ## 下载地址
 
-### Github
-[下载链接](https://github.com/stevobm/md-diary-releases/releases/latest)
+### 一键下载
 
-### Gitee
-[下载链接](https://gitee.com/stevobm/md-diary-release/releases/tag/latest)
+- Windows 版本：[EXE](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.11-setup.exe)
 
-### 百度网盘
+- MacOS 版本：[DMG](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.11-x64-mac.dmg)
 
-[下载链接](https://pan.baidu.com/s/1M1OeMXaWnTr8f0_oXtR08Q?pwd=c2rd) 提取码: c2rd
+- Linux 版本：[DEB](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary_0.2.11_amd64.deb) [RPM](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.11.x86_64.rpm)
 
-### 城通网盘
+### 备用下载
 
-[下载链接](https://url43.ctfile.com/d/3173743-57977955-91e7e2?p=3701) 访问密码：3701
+> 包含历史各个版本以及系统架构(ARM等)
+
+- [Gitee](https://gitee.com/stevobm/md-diary-release/releases/tag/latest)
+
+- [Github](https://github.com/stevobm/md-diary-releases/releases/latest)
+
+- [百度网盘](https://pan.baidu.com/s/1M1OeMXaWnTr8f0_oXtR08Q?pwd=c2rd) 提取码: c2rd
+
+- [城通网盘](https://url43.ctfile.com/d/3173743-57977955-91e7e2?p=3701) 访问密码：3701
