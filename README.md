@@ -17,20 +17,16 @@ Markdown Diary是一款设计优雅的日记软件，支持Markdown语法输入�
 
 ### 一键下载
 
-- Windows 版本：[EXE](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.11-setup.exe)
-
-- MacOS 版本：[DMG](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.11-x64-mac.dmg)
-
-- Linux 版本：[DEB](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary_0.2.11_amd64.deb) [RPM](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.11.x86_64.rpm)
+- [Windows](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.12-setup.exe)
+- [MacOS](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.12-x64-mac.dmg)
+- [Linux(DEB)](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary_0.2.12_amd64.deb)
+- [Linux(RPM)](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.12.x86_64.rpm)
 
 ### 备用下载
 
 > 包含历史各个版本以及系统架构(ARM等)
 
 - [Gitee](https://gitee.com/stevobm/md-diary-release/releases/tag/latest)
-
 - [Github](https://github.com/stevobm/md-diary-releases/releases/latest)
-
 - [百度网盘](https://pan.baidu.com/s/1M1OeMXaWnTr8f0_oXtR08Q?pwd=c2rd) 提取码: c2rd
-
 - [城通网盘](https://url43.ctfile.com/d/3173743-57977955-91e7e2?p=3701) 访问密码：3701
