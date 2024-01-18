@@ -17,10 +17,18 @@ Markdown Diary是一款设计优雅的日记软件，支持Markdown语法输入�
 
 ### 一键下载
 
+#### gitee下载
 - [Windows](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.12-setup.exe)
 - [MacOS](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.12-x64-mac.dmg)
 - [Linux(DEB)](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary_0.2.12_amd64.deb)
 - [Linux(RPM)](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.12.x86_64.rpm)
+
+#### github加速
+> 国内速度最快，但下载可能提示风险
+- [Windows](https://git.xfj0.cn/https://github.com/stevobm/md-diary-releases/releases/download/v0.2.12/md-diary-0.2.12-setup.exe)
+- [MacOS](https://git.xfj0.cn/https://github.com/stevobm/md-diary-releases/releases/download/v0.2.12/md-diary-0.2.12-x64-mac.dmg)
+- [Linux(DEB)](https://git.xfj0.cn/https://github.com/stevobm/md-diary-releases/releases/download/v0.2.12/md-diary_0.2.12_amd64.deb)
+- [Linux(RPM)](https://git.xfj0.cn/https://github.com/stevobm/md-diary-releases/releases/download/v0.2.12/md-diary-0.2.12.x86_64.rpm)
 
 ### 备用下载
 
