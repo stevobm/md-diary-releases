@@ -30,3 +30,6 @@ Markdown Diary是一款设计优雅的日记软件，支持Markdown语法输入�
 - [Github](https://github.com/stevobm/md-diary-releases/releases/latest)
 - [百度网盘](https://pan.baidu.com/s/1M1OeMXaWnTr8f0_oXtR08Q?pwd=c2rd) 提取码: c2rd
 - [城通网盘](https://url43.ctfile.com/d/3173743-57977955-91e7e2?p=3701) 访问密码：3701
+
+## 更新日志
+[Markdown Diary 更新日志](https://iwpy5b9mc7u.feishu.cn/wiki/NBUlwldFFi9A1sklIDicGE4NnSg)
