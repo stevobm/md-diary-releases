@@ -17,10 +17,10 @@ Markdown Diary是一款设计优雅的日记软件，支持Markdown语法输入�
 
 ### 一键下载
 
-- [Windows](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.13-setup.exe)
-- [MacOS](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.13-x64-mac.dmg)
-- [Linux(DEB)](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary_0.2.13_amd64.deb)
-- [Linux(RPM)](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.13.x86_64.rpm)
+- [Windows](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.14-setup.exe)
+- [MacOS](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.14-x64-mac.dmg)
+- [Linux(DEB)](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary_0.2.14_amd64.deb)
+- [Linux(RPM)](https://gitee.com/stevobm/md-diary-release/releases/download/latest/md-diary-0.2.14.x86_64.rpm)
 
 ### 备用下载
 
@@ -32,4 +32,4 @@ Markdown Diary是一款设计优雅的日记软件，支持Markdown语法输入�
 - [城通网盘](https://url43.ctfile.com/d/3173743-57977955-91e7e2?p=3701) 访问密码：3701
 
 ## 更新日志
-[Markdown Diary 更新日志](https://iwpy5b9mc7u.feishu.cn/wiki/NBUlwldFFi9A1sklIDicGE4NnSg)
+- [Markdown Diary 更新日志](https://iwpy5b9mc7u.feishu.cn/wiki/NBUlwldFFi9A1sklIDicGE4NnSg)
